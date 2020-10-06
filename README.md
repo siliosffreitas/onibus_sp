@@ -1,6 +1,6 @@
 # onibus_sp
 
-A new Flutter application.
+Exibe a localização dos ônibus da cidade de São Paulo
 
 ## Getting Started
 
